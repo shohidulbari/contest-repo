@@ -3,11 +3,16 @@
 using namespace std;
 
 typedef long long ll;
+typedef long double ld;
 
-#define forn(i, a, b) for(int i=a; i<b; i++)
+#define rep(i, a, b) for(int i=a; i<b; i++)
+#define repl(i, a, b) for(ll i=a; i<b; i++)
 #define pb push_back
-#define F first
-#define S second
+#define mp make_pair
+#define umap unordered_map
+#define uset unordered_set
+#define x first
+#define y second
 
 void solve(){
     
